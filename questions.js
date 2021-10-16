@@ -1,0 +1,85 @@
+const questions = [
+{
+  q1 : "What does the “19” in “COVID-19” refer to?",
+  a :"A.There are 19 variants of the coronavirus",
+  b :"B.There are 19 symptoms of coronavirus disease",
+  c : "C.This is the 19th coronavirus pandemic",
+  d : "D.The coronavirus and the disease it causes were identified in 2019.",
+ ans : "D.The coronavirus and the disease it causes were identified in 2019",
+},
+{
+ q2 : "Which of the following statements are correct about Aspergillosis?",
+ a :"A.It is an infection",
+ b :"B.It is an allergic reaction",
+ c :"C.It is a fungal growth",
+ d :"D.All the above",
+ ans :"D.All the above",
+},
+{
+ q3 : "In India, when did the second phase of COVID-19 vaccination start?",
+ a:"A.December 2020",
+ b :"B.January 2021",
+ c :"C.February 2021",
+ d :"D.March 2021",
+ ans :"D.March 2021",
+},
+{
+q4 : "How many countries, areas, or territories are suffering from novel coronavirus outbreaks in the World?",
+ a:"A.More than 200",
+ b:"B.More than 150",
+ c:"C.More than 50",
+ d:"D.More than 100",
+ ans:"A.More than 200",
+},
+{
+q5 : "In a study, which cells are found in COVID-19 patients 'bode well' for long-term immunity?",
+ a:"A.P-cell",
+ b:"B.D-cell",
+ c:"C.T-cell",
+ d:"D.Endothelial Cells",
+ ans:"C.T-cell",
+},
+{
+q6 : "The first case of novel coronavirus was identified in .....",
+ a:"A.Beijing",
+ b:"B.Shanghai",
+ c:"C.Wuhan, Hubei",
+ d:"D.Tianjin",
+ ans:"C.Wuhan, Hubei",
+},
+{
+q7 : "Mild Symptoms of Novel coronavirus are:",
+ a:"A.Fever",
+ b:"B.Cough",
+ c:"C.Shortness of breath",
+ d:"D.All the above",
+ ans:"D.All the above",
+},
+{
+q8 : "From where coronavirus got its name?",
+ a:"A.Due to their crown-like projections",
+ b:"B.Due to their leaf-like projections",
+ c:"C.Due to their surface structure of bricks",
+ d:"D.None of the above",
+ ans:"A.Due to their crown-like projections",
+},
+{
+q9 : "Which of the following diseases are related to coronavirus?",
+ a:"A.MERS",
+ b:"B.SARS",
+ c:"C. Both A and B",
+ d:"D.Neither A nor B",
+ ans:"Both A and B",
+},
+{
+q10 : "What are the precautions that need to be taken to protect from the coronavirus?",
+ a:"A.Cover your nose and mouth when sneezing.",
+ b:"B.Add more garlic into your diet.",
+ c:"C.Visit your doctor for antibiotics treatment",
+ d:"D.Wash your hands after every hour.",
+ ans:"A.Cover your nose and mouth when sneezing.",
+}
+
+];
+
+module.exports = questions;
